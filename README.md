@@ -1,2 +1,3 @@
 # SovanHongoldgame
-<h1> Snake <h1>
+<h1><center> Snake 
+
