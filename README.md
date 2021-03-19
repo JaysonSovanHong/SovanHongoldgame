@@ -43,7 +43,7 @@ I choose this classic game because I really want to impliment the add.event/clas
   <li>Make an intro screen with the start button that will have a smooth transition.</li>
   <li>Make a seprete screen for when you win.</li> 
   <li>make a time counter so you are trying to get a best score for time.</li>
-  <li><b> If I can, insead of logging the points it logs and show an immage of the set of card that you have won.<b/></li>
+  <li><b> If I can, insead of logging the points it logs and show an image of the set of card that you have won.<b/></li>
   </ul>
   
   
