@@ -8,13 +8,13 @@ I choose this classic game because I really want to impliment the add.event/clas
   
   <h2>Game Rules:</h2>
   <ol>
-  <li>1.Click the start for the button for the game to start.</li>
-  <li>2.The snake will automatically move at random.</li>
-  <li>3.You must stear the snake to grab the apple.</li>
-  <li>4.Every apple you grab you get one point.</li>
-  <li>5.If the snake hit the wall game will be over.</li>
-  <li>6.If the snake eats itself it will be game over.</li>
-  <li>7.Once you eat 25 points you will win the game.</li>
+  <li>Click the start for the button for the game to start.</li>
+  <li>The snake will automatically move at random.</li>
+  <li>You must stear the snake to grab the apple.</li>
+  <li>Every apple you grab you get one point.</li>
+  <li>If the snake hit the wall game will be over.</li>
+  <li>If the snake eats itself it will be game over.</li>
+  <li>Once you eat 25 points you will win the game.</li>
   </ol>
   
   <h2>User Stories</h2>
