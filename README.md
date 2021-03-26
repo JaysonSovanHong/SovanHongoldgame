@@ -1,6 +1,9 @@
 # SovanHongoldgame
 <h1>Memory Game: Match Two</h1>
 
+Link to the Game
+https://jaysonsovanhong.github.io/Sovan_/
+
 <h2>Overview:</h2>
 I am going to make a memory game.  The idea of the game is that you will have a 4 by 4 grid of card and you would have to pick one card and memorize it and once you do you would click another card.  If it has the same picture then its a match and you get a point, but if its the wrong picture then you would not get a point.  You will win once all card has been faced up and disappear. 
   
@@ -46,6 +49,10 @@ I choose this classic game because I really want to impliment the add.event/clas
   <li><b> If I can, insead of logging the points it logs and show an image of the set of card that you have won.<b/></li>
   </ul>
   
+  Wire Frame!
+  
+  [Screen Shot 2021-03-26 at 3 49 38 PM](https://user-images.githubusercontent.com/80006154/112685419-e8d61380-8e4a-11eb-94ed-b3eb849c1bc1.png)
+
   
   
   
